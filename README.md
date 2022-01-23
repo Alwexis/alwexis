@@ -2,15 +2,16 @@
 
 Tengo 20 años y soy un estudiante de Ingeniería en Informática. Estoy interesado mayormente en el Desarrollo Web y de Videojuegos, aunque de vez en cuando me gusta explorar y probar cosas diferentes relacionadas a la programación.
 
-![Alwexis's github stats](https://github-readme-stats.vercel.app/api?username=alwexis&count_private=true&show_icons=true&theme=tokyonight&locale=es&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alwexis&langs_count=8&layout=compact&theme=tokyonight&locale=es&include_all_commits=true&count_private=true)
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=alwexis&count_private=true&show_icons=true&theme=tokyonight&locale=es&include_all_commits=true&count_private=true" alt="Alwexis's github stats"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwexis&langs_count=8&layout=compact&theme=tokyonight&locale=es&include_all_commits=true&count_private=true"/> |
+| ------------- | ------------- |
 
 ## Repositorios
 
 Estos son mis repositorios principales, iré anclando los más importantes o los que más tiempo me llevó desarrollar.
 
-[![WhosThatPokemon](https://github-readme-stats.vercel.app/api/pin/?username=alwexis&repo=Whos-That-Pokemon&theme=tokyonight)](https://github.com/Alwexis/Whos-That-Pokemon)
-[![PokemonDiscordBot](https://github-readme-stats.vercel.app/api/pin/?username=alwexis&repo=Pokemon-Discord-Bot&theme=tokyonight)](https://github.com/Alwexis/Pokemon-Discord-Bot)
+| <a href="https://github.com/Alwexis/Whos-That-Pokemon"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alwexis&repo=Whos-That-Pokemon&theme=tokyonight"/></a> | <a href="https://github.com/Alwexis/Pokemon-Discord-Bot"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alwexis&repo=Pokemon-Discord-Bot&theme=tokyonight"/></a> |
+| ------------- | ------------- |
 
 ## Lenguajes de Programación 🛠️
 
