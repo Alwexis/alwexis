@@ -10,8 +10,8 @@ Tengo 20 años y soy un estudiante de Ingeniería en Informática. Estoy interes
 
 Estos son mis repositorios principales, iré anclando los más importantes o los que más tiempo me llevó desarrollar.
 
-| <a href="https://github.com/Alwexis/Whos-That-Pokemon"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alwexis&repo=Whos-That-Pokemon&theme=tokyonight"/></a> | <a href="https://github.com/Alwexis/Pokemon-Discord-Bot"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alwexis&repo=Pokemon-Discord-Bot&theme=tokyonight"/></a> | <a href="https://github.com/Alwexis/weatherGraphs"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alwexis&repo=weatherGraphs&theme=tokyonight"></a> |
-| ------------- | ------------- | ------------- |
+| <a href="https://github.com/Alwexis/Whos-That-Pokemon"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alwexis&repo=Whos-That-Pokemon&theme=tokyonight"/></a> | <a href="https://github.com/Alwexis/weatherGraphs"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alwexis&repo=weatherGraphs&theme=tokyonight"></a> |
+| ------------- | ------------- |
 
 ## Lenguajes de Programación 🛠️
 
