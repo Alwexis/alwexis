@@ -5,7 +5,9 @@
 <p align="center">También obtener conocimientos y enseñarlos a gente que esté interesada.</p>
 <p align="center">Actualmente estoy interesado en especializarme en el desarrollo de aplicaciones multiplataforma.</p>
 
-## <u>Repositorios</u>
+&nbsp;
+
+## <u>📚 Repositorios</u>
 
 <p align="left">
     Estos son mis repositorios principales, o los que encuentro más relevantes y útiles tanto para mi, como para los demás.
@@ -16,7 +18,7 @@
 
 &nbsp;
 
-## <u>Lenguajes y Herramientas</u>
+## <u>💻 Lenguajes y Herramientas</u>
 
 <p align="left">
     <img align="center" width=32px alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg">
