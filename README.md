@@ -1,26 +1,59 @@
-<h2 align="center"><samp>Ariel Silva</samp></h2>
-<h3 align="center"><samp>Computer Science Student & Junior Developer.</samp></h3>
+<h1 align="center"><samp>Ariel Silva</samp></h1>
+<h3 align="center"><samp>Computer Science Engineer</samp></h3>
 <br>
 <p align="center"><samp>
-    I am a 22 y/o student pursuing a degree in <strong>Computer Science</strong>. I have experience in <strong>Web</strong> and <strong>Mobile Application Development</strong>, as well as in <strong>Data Science</strong>. I am also interested in <strong>Video Games development</strong>.
+    I'm a <strong>Software Engineer</strong> with a degree in Computer Engineering. Passionate about technology, I enjoy creating innovative solutions, exploring new tools, and continuously learning. My interests range from <strong>Full Stack Development</strong> and <strong>Artificial Intelligence</strong> to <strong>Project Management</strong> and <strong>Video Game Development</strong>.
 </samp></p>
-<p align="center"><samp>
-Currently, I am working on my thesis, where my team and I are developing the project <a href='https://github.com/Alwexis/SignAI'><strong>SignAI</strong></a>, which aims to break the communication barrier between deaf/mute individuals and hearing people using <strong>Artificial Intelligence</strong>.
-</samp></p>
-<br><br>
-<h3 align="center"><samp>My Stack</samp></h3>
 
-<p align="center">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E">
-    <img src="https://img.shields.io/badge/TypeScript-323330?style=flat-square&logo=typescript&logoColor=3572A5">
-    <img src="https://img.shields.io/badge/Astro-323330?style=flat-square&logo=astro&logoColor=FF5705">
-    <img src="https://img.shields.io/badge/Ionic-323330?style=flat-square&logo=ionic&logoColor=3572A5">
-    <img src="https://img.shields.io/badge/Angular-323330?style=flat-square&logo=angular&logoColor=e03c64">
-    <img src="https://img.shields.io/badge/TailwindCSS-323330?style=flat-square&logo=tailwindcss&logoColor=38bdf8">
-    <img src="https://img.shields.io/badge/NodeJS-323330?style=flat-square&logo=nodedotjs&logoColor=b5d485">
-    <img src="https://img.shields.io/badge/Python-323330?style=flat-square&logo=python&logoColor=3572A5">
-    <img src="https://img.shields.io/badge/Tensorflow-323330?style=flat-square&logo=tensorflow&logoColor=FF6F00">
-    <img src="https://img.shields.io/badge/Keras-323330?style=flat-square&logo=keras&logoColor=D00000">
-    <img src="https://img.shields.io/badge/MongoDB-323330?style=flat-square&logo=mongodb&logoColor=6cb494">
-    <img src="https://img.shields.io/badge/MySQL-323330?style=flat-square&logo=mysql&logoColor=white">
+<br>
+
+<h2 align="start"><samp>Skills & Tools</samp></h3>
+<h3 align="start"><samp>Languages</samp></h3>
+<p align="start">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+</p>
+
+<h3 align="start"><samp>Frameworks / Libraries</samp></h3>
+<p align="start">
+    <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white">
+    <img src="https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white">
+    <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+    <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
+    <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
+    <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+</p>
+
+<h3 align="start"><samp>Databases</samp></h3>
+<p align="start">
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white">
+</p>
+
+<h3 align="start"><samp>Development Tools</samp></h3>
+<p align="start">
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</p>
+
+<br>
+<h2 align="start"><samp>Contact me</samp></h3>
+<p align="start">
+    <a href="https://www.linkedin.com/in/arielsilvar/" target="_blank" style="underline: none;">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:arielsilvar.dev@gmail.com" target="_blank" style="underline: none;">
+        <img src="https://img.shields.io/badge/Email-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://x.com/Alwexisss" target="_blank" style="underline: none;">
+        <img src="https://img.shields.io/badge/X-%2320232a.svg?&style=for-the-badge&logo=x&logoColor=white">
+    </a>
 </p>
