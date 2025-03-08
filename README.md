@@ -53,7 +53,7 @@
     <a href="mailto:arielsilvar.dev@gmail.com" target="_blank" style="underline: none;">
         <img src="https://img.shields.io/badge/Email-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://x.com/Alwexisss" target="_blank" style="underline: none;">
+    <a href="https://x.com/alwexis_dev" target="_blank" style="underline: none;">
         <img src="https://img.shields.io/badge/X-%2320232a.svg?&style=for-the-badge&logo=x&logoColor=white">
     </a>
 </p>
