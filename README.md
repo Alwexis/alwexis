@@ -1,5 +1,5 @@
 <h1 align="center"><samp>Ariel Silva</samp></h1>
-<h3 align="center"><samp>Computer Science Engineer</samp></h3>
+<h3 align="center"><samp>Software Engineer</samp></h3>
 <br>
 <p align="center"><samp>
     I'm a <strong>Software Engineer</strong> with a degree in Computer Engineering. Passionate about technology, I enjoy creating innovative solutions, exploring new tools, and continuously learning. My interests range from <strong>Full Stack Development</strong> and <strong>Artificial Intelligence</strong> to <strong>Project Management</strong> and <strong>Video Game Development</strong>.
