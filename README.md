@@ -23,7 +23,7 @@
 
 <br>
 
-<h2 align="start"><samp>Skills & Tools</samp></h3>
+<h2 align="start"><samp>Knowledge</samp></h3>
 <h3 align="start"><samp>Languages</samp></h3>
 <img src="https://skillicons.dev/icons?i=js,ts,py,java" />
 
